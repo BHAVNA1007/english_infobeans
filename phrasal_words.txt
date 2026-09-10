@@ -1,0 +1,39 @@
+Back out = leave a plan 
+
+Go ahead = start  
+
+Take over = control 
+
+Step down = leave a position 
+
+Carry on = continue
+
+
+Our team was planning a new project, but one member decided to back out at the last moment. The manager told us to go ahead with the project anyway. Then, our senior developer took over the project and guided everyone. After a few months, the manager decided to step down from his position. However, the team continued to carry on with the project and successfully completed it.
+
+
+
+Wake up: Stop sleeping and open your eyes.
+
+Get dressed: Put your clothes on for the day.
+
+Set off: Leave your house to start a journey or trip.
+
+Run into: Meet someone by accident or surprise.
+
+Come back: Return to the place where you started.
+
+
+i woke up at 7 in the morning. then i took a shower after that i made tea for myself. after that i got dressed. then I set off for the office. on the bus i ran into my childhood friend. after that in the evening i came back home.
+
+
+
+Find out → discover information 
+Look for → search 
+Come across → find unexpectedly
+Pick up → collect/take
+Give back → return
+
+
+One day I found out about the MySQL Functions, but I was only looking for scalar functions. While searching, I came across the SQL sever functions. This were made me confused with MySQL and SQL server there were I faced difficulty distinguishing both of them. Then I took help from AI finally I picked up MySQL functions.
+

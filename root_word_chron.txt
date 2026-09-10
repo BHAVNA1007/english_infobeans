@@ -1,0 +1,61 @@
+root_word_chron
+
+
+The root word **chron** comes from **Ancient Greek** and is related to **time**.
+
+### 🔹 Root Word: **chron**
+
+Origin:** Greek **khronos (χρόνος)**
+Meaning:** **time**
+Pronunciation:** *kron*
+It appears in many English words related to **time, duration, or sequence.
+
+### Common words with **chron**
+
+| Word              | Meaning                                              | Example                                                                  |
+| ----------------- | ---------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Chronology**    | The arrangement of events according to time          | *The book presents the chronology of the war.*                           |
+| **Chronological** | Arranged in order of time                            | *Write the events in chronological order.*                               |
+| **Chronic**       | Continuing for a long time                           | *He suffers from chronic back pain.*                                     |
+| **Chronicle**     | A record of events in time order                     | *The historian wrote a chronicle of the kingdom.*                        |
+| **Synchronize**   | To make things happen at the same time               | *Synchronize your phone with your computer.*                             |
+| **Synchronous**   | Happening at the same time                           | *The two machines operate synchronously.*                                |
+| **Asynchronous**  | Not happening at the same time                       | *Email communication is asynchronous.*                                   |
+| **Chronometer**   | An instrument for measuring time accurately          | *The sailor used a chronometer to keep accurate time.*                   |
+| **Chronograph**   | An instrument/watch that records or measures time    | *He bought a watch with a chronograph.*                                  |
+| **Anachronism**   | Something placed in the wrong historical time period | *A modern smartphone in an ancient Roman movie would be an anachronism.* |
+
+### 🧠 Easy way to remember
+
+**CHRON = TIME**
+
+Think:
+
+> **Chronology → time order**
+> **Chronic → lasting a long time**
+> **Chronometer → measures time**
+> **Synchronize → make things happen at the same time**
+
+### 🔍 Word breakdown
+
+**Chronological**
+
+> **chron** = time
+> **-logy** = study/account
+> → **chronology** = the study/recording of events according to time
+
+**Synchronize**
+
+> **syn-** = together
+> **chron** = time
+> **-ize** = make
+> → **synchronize** = make things occur at the same time
+
+**Anachronism**
+
+> **ana-** = against/back/wrong
+> **chron** = time
+> **-ism** = condition
+> → **anachronism** = something that belongs to a different/wrong time period.
+
+**Shortcut:** Whenever you see **CHRON**, immediately think **TIME**.

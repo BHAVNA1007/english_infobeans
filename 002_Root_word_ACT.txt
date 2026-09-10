@@ -1,0 +1,31 @@
+1. Root word: ACT
+
+Act comes from Latin agere, meaning:
+
+“to do, to drive, to perform, to carry out”
+
+The Latin noun actum means “a thing done” or “something performed.”
+
+So the basic idea behind act is:
+
+ACT → DO / PERFORM / TAKE ACTION
+
+
+
+| Word           | Meaning                                | Connection to “act”                   |
+| -------------- | -------------------------------------- | ------------------------------------- |
+| **act**        | to do something                        | do                                    |
+| **action**     | something that is done                 | act → action                          |
+| **active**     | doing things; energetic                | someone who acts                      |
+| **activity**   | something that someone does            | repeated/organized action             |
+| **actor**      | a person who performs                  | person who acts                       |
+| **actress**    | female performer                       | person who acts                       |
+| **actual**     | real; existing in fact                 | something that has been done/existing |
+| **activate**   | to make something work                 | cause something to act                |
+| **activation** | the process of making something active | act → become active                   |
+| **react**      | to act in response                     | re + act                              |
+| **interact**   | to act with each other                 | inter + act                           |
+| **transact**   | to carry out a business/deal           | trans + act                           |
+| **enact**      | to make something official/law         | en + act                              |
+| **counteract** | to act against something               | counter + act                         |
+| **inactive**   | not active                             | in + active                           |

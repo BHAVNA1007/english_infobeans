@@ -1,0 +1,74 @@
+article_vocab
+
+
+
+Absolutely. Here are all the words with **simple meanings, Hindi meanings, parts of speech, and practical examples**.
+
+| Word              | Part of Speech   | Simple Meaning                                                                   | Hindi Meaning                    | Example                                                            |
+| ----------------- | ---------------- | -------------------------------------------------------------------------------- | -------------------------------- | ------------------------------------------------------------------ |
+| **Acute**         | Adjective        | Very serious, severe, or intense                                                 | तीव्र, गंभीर                     | She felt **acute pain** in her back.                               |
+| **Perpetually**   | Adverb           | Continuously; always; for a very long time                                       | हमेशा, लगातार                    | He is **perpetually worried** about his future.                    |
+| **Harmonise**     | Verb             | To make things work well together; to agree                                      | सामंजस्य बिठाना, तालमेल करना     | We need to **harmonise** our ideas before starting the project.    |
+| **Inwardly**      | Adverb           | In one's thoughts or feelings; internally                                        | मन ही मन, अंदर से                | **Inwardly**, she was very nervous, although she looked confident. |
+| **Tyrant**        | Noun             | A cruel and controlling ruler/person                                             | अत्याचारी, तानाशाह               | The king was a cruel **tyrant** who treated people badly.          |
+| **Pursuit**       | Noun             | The act of trying to achieve or obtain something                                 | प्रयास, खोज, पीछा                | She is in **pursuit of** her dream of becoming a programmer.       |
+| **Orchestrating** | Verb             | Organising or controlling many things/people to achieve a result                 | व्यवस्थित/समन्वित करना           | She was **orchestrating** the entire event.                        |
+| **Abates**        | Verb             | Becomes less strong or intense                                                   | कम होना, घट जाना                 | The heavy rain finally **abates** in the evening.                  |
+| **Culminating**   | Verb/Adjective   | Reaching the final or most important point                                       | चरम/अंतिम बिंदु पर पहुँचना       | Years of hard work were **culminating in** her success.            |
+| **Harmony**       | Noun             | A state of agreement or peaceful coexistence                                     | सामंजस्य, सद्भाव                 | The team worked together in **harmony**.                           |
+| **Threshold**     | Noun             | The point at which something begins or changes                                   | दहलीज, प्रारंभिक सीमा            | She is on the **threshold of** a new career.                       |
+| **Psychic**       | Adjective/Noun   | Related to the mind; sometimes believed to involve supernatural mental abilities | मानसिक; अलौकिक मानसिक शक्ति वाला | The movie is about a **psychic** who can see the future.           |
+| **Diminution**    | Noun             | A reduction or decrease in size, amount, or importance                           | कमी, ह्रास                       | There has been a **diminution in** the company's profits.          |
+| **Distortion**    | Noun             | A change that makes something inaccurate or unclear                              | विकृति, गलत रूप                  | The article gave a **distortion of** the actual facts.             |
+| **Continual**     | Adjective        | Happening repeatedly, often with short breaks                                    | बार-बार होने वाला, लगातार        | His **continual** complaints annoyed everyone.                     |
+| **Get drawn**     | Phrase           | Become involved or attracted to something                                        | आकर्षित/शामिल हो जाना            | Don't **get drawn into** unnecessary arguments.                    |
+| **Dispersed**     | Verb/Adjective   | Spread or scattered over a wide area                                             | बिखरा हुआ, फैलाया गया            | The crowd **dispersed** after the meeting.                         |
+| **Piecemeal**     | Adverb/Adjective | Done gradually, one part at a time                                               | टुकड़ों में, धीरे-धीरे           | The company made **piecemeal changes** to the system.              |
+
+### Important differences
+
+**1. Acute vs Continual**
+
+* **Acute** = very severe/intense
+  → *He experienced **acute pain**.*
+* **Continual** = repeatedly happening
+  → *Her **continual complaints** disturbed me.*
+
+**2. Harmony vs Harmonise**
+
+* **Harmony** = the state of being in agreement
+  → *The team lives in **harmony**.*
+* **Harmonise** = to create or achieve that agreement
+  → *We should **harmonise** our plans.*
+
+**3. Diminution vs Abate**
+
+Both involve **becoming less**, but their usage differs:
+
+* **Diminution** = a **reduction/decrease** (noun)
+  → *There was a **diminution in** his influence.*
+* **Abate** = something **becomes less intense** (verb)
+  → *The storm **abated**.*
+
+**4. Pursuit**
+
+Usually used for something you are **trying hard to achieve**:
+
+> **pursuit of knowledge** = ज्ञान प्राप्त करने का प्रयास
+> **pursuit of happiness** = खुशी की तलाश
+> **pursuit of a career** = करियर बनाने का प्रयास
+
+**5. Threshold**
+
+Think of a **doorway**. Figuratively, it means the point just before something new begins.
+
+> *She is on the **threshold of success**.*
+> = She is very close to entering a successful stage.
+
+**6. Piecemeal**
+
+Think: **piece + meal → one piece at a time**.
+
+> *The project was completed **piecemeal**.*
+
+= The project was completed **little by little / in separate parts**.
